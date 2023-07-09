@@ -126,13 +126,13 @@ main section{
     gap: 24px;
 }
 .child1{
-    background-color: #6a584d;
+    background-color:orangered;
     border-radius: 5px;
     padding: 30px;
   
 }
 .child2{
-    background-color: aqua;
+    background-color: orangered;
     border-radius: 5px;
     padding: 30px;
 }
@@ -150,4 +150,22 @@ main section{
     text-align: center;
     padding: 20px;
 }
+.lr-description{
+    text-align: center;
+}
+.left-right{
+    display: flex;
+    background-color: rgb(145, 129, 68);
+    padding: 130px 200px;
+    gap: 180px;
+}
+.Contact input,textarea{
+    display: block;
+    padding: 18px 35px;
+    margin-bottom: 25px;
+    color: #757575;
+    border-radius: 10px;
+    border: 0px;
+}
+. 
 
